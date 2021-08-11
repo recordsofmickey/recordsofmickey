@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recordsofmickey
 - 👀 I’m interested in learning full stack development
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Laravel & Vue.js
 - 💞️ I’m looking to collaborate on basic Laravel projects
 
 <!---
