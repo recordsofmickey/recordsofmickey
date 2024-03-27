@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @recordsofmickey
-- 👀 I’m interested in full stack development
+- 👋 Hi, I’m Michiel!
+- 👀 I’m interested in full stack development with a focus on FE. 
 - 🌱 I’m currently working with Vue.js, Node.js, Express JS and Laravel
-- 💞️ I’m looking to collaborate on basic Laravel & Vue.js projects
+
 
 <!---
 recordsofmickey/recordsofmickey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
